@@ -1,2 +1,4 @@
 We are discussing git.
 Git is a version control tool
+A repo has been created
+we connected local repo to github
