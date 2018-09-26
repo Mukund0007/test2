@@ -1,1 +1,2 @@
-We are discussing git 
+We are discussing git.
+Git is a version control tool
